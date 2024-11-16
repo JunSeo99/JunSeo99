@@ -18,7 +18,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3C3C3C?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=3C3C3C)
 
 ### DevOps & Cloud ⚙️
-![AWS](https://img.shields.io/badge/AWS-3C3C3C?style=for-the-badge&logo=amazonwebservice&logoColor=FF9900&labelColor=3C3C3C)
+![AWS](https://img.shields.io/badge/AWS-3C3C3C?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=3C3C3C)
 ![Jenkins](https://img.shields.io/badge/Jenkins-3C3C3C?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=3C3C3C)
 ![Kafka](https://img.shields.io/badge/Kafka-3C3C3C?style=for-the-badge&logo=apachekafka&logoColor=231F20&labelColor=3C3C3C)
 ![Docker](https://img.shields.io/badge/Docker-3C3C3C?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=3C3C3C)
