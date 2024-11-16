@@ -17,7 +17,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3C3C3C?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=3C3C3C)
 
 ### DevOps & Cloud ⚙️
-![AWS](https://img.shields.io/badge/AWS-3C3C3C?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=3C3C3C)
+![AWS](https://img.shields.io/badge/AWS-3C3C3C?style=for-the-badge&logo=amazonwebservice&logoColor=FF9900&labelColor=3C3C3C)
 ![Jenkins](https://img.shields.io/badge/Jenkins-3C3C3C?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=3C3C3C)
 ![Kafka](https://img.shields.io/badge/Kafka-3C3C3C?style=for-the-badge&logo=apachekafka&logoColor=231F20&labelColor=3C3C3C)
 ![Docker](https://img.shields.io/badge/Docker-3C3C3C?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=3C3C3C)
@@ -29,3 +29,15 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JunSeo99&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=JunSeo99&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+![JunSeo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunSeo99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunSeo99&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
