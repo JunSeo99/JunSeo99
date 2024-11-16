@@ -28,16 +28,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-3C3C3C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=3C3C3C)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JunSeo99&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-## 📊 GitHub Stats
+## 📊
 
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=JunSeo99&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![JunSeo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunSeo99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunSeo99&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
