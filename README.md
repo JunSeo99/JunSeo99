@@ -37,7 +37,7 @@ AI 🤖
 <br>
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=JunSeo99&theme=dark&hide_border=true&locale=ko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **JunSeo99/JunSeo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
