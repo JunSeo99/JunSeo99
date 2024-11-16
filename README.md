@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+
+## iOS Developer
 <p>
-  <img src="https://img.shields.io/badge/reactiveX-20232a.svg?style=for-the-badge&logo=reactiveX&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/reactiveX-20232a.svg?style=for-the-badge&logo=reactiveX&logoColor=B7178C" />
+  <img src="https://img.shields.io/badge/Swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=F05138" />
   <img src="https://img.shields.io/badge/vapor-20232a.svg?style=for-the-badge&logo=vapor&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 <!--
 **JunSeo99/JunSeo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
