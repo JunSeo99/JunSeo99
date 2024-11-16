@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junseo.indexfinger@gmail.com)](mailto:junseo.indexfinger@gmail.com)
 
 
+
 ## 🛠 Tech Stack
 <br><br>
 
@@ -28,7 +29,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-3C3C3C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=3C3C3C)
 
 
-## 📊
 
 <div align="center">
   
