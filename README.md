@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p>
+  <img src="https://img.shields.io/badge/reactiveX-20232a.svg?style=for-the-badge&logo=reactiveX&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/vapor-20232a.svg?style=for-the-badge&logo=vapor&logoColor=0D0D0D" />
+</p>
 <!--
 **JunSeo99/JunSeo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
